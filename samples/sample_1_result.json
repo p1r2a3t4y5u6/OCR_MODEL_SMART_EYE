@@ -1,0 +1,8 @@
+{
+  "input_path": "samples/input/sample_1.png",
+  "mode": "document",
+  "text": "Complete the following optional technical challenge: Task: Build a small Python-based OCR Pipeline that takes an image as input, preprocesses it, extracts text and returns the extracted output. You may use Opencv + Tesseract/PaddleOCR/EasyOCR or another framework. Submit: GitHub repository Short README Sample input/output Brief explanation of your approach . share link Your answer TT ) This is a required question",
+  "mean_confidence": 91.08,
+  "num_words": 61,
+  "elapsed_seconds": 1.495
+}

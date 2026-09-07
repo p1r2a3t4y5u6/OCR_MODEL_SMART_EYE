@@ -1,0 +1,8 @@
+{
+  "input_path": "samples/input/sample_2_code.png",
+  "mode": "code",
+  "text": "Bus22%",
+  "mean_confidence": 0.0,
+  "num_words": 1,
+  "elapsed_seconds": 0.21
+}
